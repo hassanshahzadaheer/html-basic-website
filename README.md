@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project involves creating a simple multi-page website using only HTML. The goal is to practice structuring a website in a semantic, organized way that can easily accommodate styling and additional features later. This project focuses purely on building the structure of the website.
+This project based on the [roadmap.sh](https://roadmap.sh/projects/single-page-cv) guidelines involves creating a simple multi-page website using only HTML. The goal is to practice structuring a website in a semantic, organized way that can easily accommodate styling and additional features later. This project focuses purely on building the structure of the website.
 
 ---
 
