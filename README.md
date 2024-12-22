@@ -58,7 +58,6 @@ Here is an outline of the expected structure for the website:
 - **Contact Page (contact.html):**
   - Provides contact information or a form for users to get in touch.
 
----****
 
 ## How to Run the Project
 
